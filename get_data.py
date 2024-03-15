@@ -3,6 +3,7 @@ from sensor.data_access.sensor_data import SensorData
 from sensor.constant.training_pipeline import DATA_INGESTION_COLLECTION_NAME
 from main import set_env_variable
 import os
+
 from sensor.utils.main_utils import read_yaml_file
 if __name__=='__main__':
     data_file_path="D:/mongodbdata/aps_failure_training_set1.csv"
