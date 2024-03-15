@@ -1,0 +1,5 @@
+pymongo[srv]==4.2.0
+numpy 
+pandas 
+
+-e .
